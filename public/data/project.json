@@ -1,0 +1,50 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce React",
+      "description": "Plateforme e-commerce complète avec panier, paiement ",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "image": "/projects/page-acceuil1.PNG",
+      "link": "https://mon-ecommerce.com",
+      "github": "https://github.com/votre-compte/ecommerce",
+      "category": "web",
+      "featured": true,
+      "updatedAt": "2025-11-13T23:01:09.154Z"
+    },
+    {
+      "id": 2,
+      "title": "Application Musicale",
+      "description": "Streaming musical avec recommandations personnalisées et playlists.",
+      "technologies": [
+        "Vue.js",
+        "Express",
+        "MySQL"
+      ],
+      "image": "/projects/page-acceuil2.PNG",
+      "link": "https://mon-app-musique.com",
+      "github": "https://github.com/votre-compte/music-app",
+      "category": "mobile",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Dashboard Analytique",
+      "description": "Tableau de bord de données avec visualisations interactives et temps réel.",
+      "technologies": [
+        "React",
+        "D3.js",
+        "Firebase"
+      ],
+      "image": "/projects/commande-1.PNG",
+      "link": "https://mon-dashboard.com",
+      "github": "https://github.com/votre-compte/dashboard",
+      "category": "web",
+      "featured": true
+    }
+  ]
+}
