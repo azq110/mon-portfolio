@@ -108,7 +108,7 @@ const Navbar: React.FC = () => {
 
         {/* Mobile Navigation */}
         <div className={`
-          fixed top-0 right-0 h-full w-3/4 backdrop-blur-md transform transition-transform duration-300 md:hidden z-40
+          fixed top-0 right-0 h-screen w-2/4 backdrop-blur-lg bg-black/65  transform transition-transform duration-300 md:hidden z-40
           ${theme === 'dark' ? 'bg-darker/95' : 'bg-white/95'}
           ${isMenuOpen ? 'translate-x-0' : 'translate-x-full'}
         `}>

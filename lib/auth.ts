@@ -1,6 +1,6 @@
 // Authentification simple pour l'admin
 export function isAuthenticated(password: string): boolean {
-  const adminPassword = process.env.ADMIN_PASSWORD || 'admin123';
+  const adminPassword = process.env.ADMIN_PASSWORD || 'admin0000@';
   return password === adminPassword;
 }
 

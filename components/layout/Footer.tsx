@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
             </a>
           ))}
         </div>
-        <p className="text-secondary">© 2023 Tous droits réservés. Conçu avec ❤️</p>
+        <p className="text-secondary">© 2025 Tous droits réservés. Conçu avec ❤️</p>
       </div>
     </footer>
   );
